@@ -21,3 +21,9 @@ Space and Time Complexity ( Day 1-2 )
       - How fast the program execution time f(n) increases wrt to the input size 'n' , where f(n) is program execution time.
       
       - c < log log(n) < log(n) < n^(1/3) < n^(1/2) < n < n log(n) < n^2 < n^3 < 2^n < e^n < n^n
+      
+     4.Best, Average, Worst Case
+      
+      - We always consider the worst case scenario.
+      
+     5.Asymptotic Notations
