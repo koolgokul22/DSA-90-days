@@ -27,3 +27,10 @@ Space and Time Complexity ( Day 1-2 )
       - We always consider the worst case scenario.
       
      5.Asymptotic Notations
+     
+      - Represents the order of growth in mathematical form.
+      - Big O => Exact or upper bound
+      - Theta => Exact bound
+      - Omega => Exact or lower bound
+      - We are interested in exact or upper bound notation.
+      
