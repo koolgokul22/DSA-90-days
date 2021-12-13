@@ -34,6 +34,7 @@ Space and Time Complexity ( Day 1-2 )
       
       - Big O => Exact or upper bound
       
+      
       - Theta => Exact bound
       
       - Omega => Exact or lower bound
@@ -50,4 +51,6 @@ Space and Time Complexity ( Day 1-2 )
       - Space Complexity -> Order of growth of space or memory (RAM size) with respect to the input size 'n'.
       
       - Auxiliary Space Complexity -> Order of growth of  EXTRA memory space or (RAM memory) with respect to the input size 'n'.
+     
+Recursion and Backtracking ( Day 3-6 )
       
