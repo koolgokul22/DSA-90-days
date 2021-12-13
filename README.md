@@ -53,4 +53,32 @@ Space and Time Complexity ( Day 1-2 )
       - Auxiliary Space Complexity -> Order of growth of  EXTRA memory space or (RAM memory) with respect to the input size 'n'.
      
 Recursion and Backtracking ( Day 3-10 )
+
+ 1.Recursion 
+  
+  - A function calling itself directly or indirectly is called as Recursion.
+
+  - Direct recursion -> A function calls itself directly inside the same function. 
+  
+   int fun(int n){
+    ----
+    ----
+    return fun(n-1);
+   }
+   
+  - Indirect recursion -> A function calls indirectly calls itself through another function.
+
+   int fun1(){
+    ---
+    ---
+    fun2()
+    ---
+    }
+    
+   int fun2(){
+    ---
+    ---
+    fun1()
+    ---
+    }
       
