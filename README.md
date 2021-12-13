@@ -81,4 +81,10 @@ Recursion and Backtracking ( Day 3-10 )
       fun1()
       ---
       }
-      
+     
+    2.Applications of Recursion 
+    
+     - Dynamic Programming, Backtracking, Divide and Conquer( MergeSort, BinarySearch, QuickSort ),  DFS, Searching a file in a file system etc.....
+     
+     - Pros -> Easy to implement a recursive solution than an iterative solution
+     - Cons -> Lot of function overheads , space complexity increases when recursion is used.
