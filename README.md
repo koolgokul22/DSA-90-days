@@ -32,8 +32,7 @@ Space and Time Complexity ( Day 1-2 )
      
       - Represents the order of growth in mathematical form.
       
-      - Big O => Exact or upper bound
-      
+      - Big O => Exact or upper bound      
       
       - Theta => Exact bound
       
@@ -86,5 +85,6 @@ Recursion and Backtracking ( Day 3-10 )
     
      - Dynamic Programming, Backtracking, Divide and Conquer( MergeSort, BinarySearch, QuickSort ),  DFS, Searching a file in a file system etc.....
      
-     - Pros -> Easy to implement a recursive solution than an iterative solution
+     - Pros -> Easy to implement a recursive solution than an iterative solution.
+     
      - Cons -> Lot of function overheads , space complexity increases when recursion is used.
