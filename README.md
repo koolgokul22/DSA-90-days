@@ -49,5 +49,5 @@ Space and Time Complexity ( Day 1-2 )
       
       - Space Complexity -> Order of growth of space or memory (RAM size) with respect to the input size 'n'.
       
-      - Auxilary Space Complexity -> Order of growth of  EXTRA memory space or (RAM memory) with respect to the input size 'n'.
+      - Auxiliary Space Complexity -> Order of growth of  EXTRA memory space or (RAM memory) with respect to the input size 'n'.
       
